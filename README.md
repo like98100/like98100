@@ -1,18 +1,20 @@
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=28&duration=1&pause=1&color=FFFFFF&background=0d1117&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Yun+Byeong+Chang;Game%2FBackend%2FCI%2CCD+Infra+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=28&duration=1&pause=1&color=FFFFFF&background=585050&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Yun+Byeong+Chang;Game%2FBackend%2FCI%2CCD+Infra+Developer" alt="Typing SVG" />
 </a>
 </p>
 
 ---
 
 ### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-0F80FF?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-0F80FF?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-0F80FF?style=for-the-badge&logo=unity&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0F80FF?style=for-the-badge&logo=springboot&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-0F80FF?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-0F80FF?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Java](https://img.shields.io/badge/Java-585050?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-585050?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-585050?style=for-the-badge&logo=unity&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-585050?style=for-the-badge&logo=springboot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-585050?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-585050?style=for-the-badge&logo=mysql&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-585050?style=for-the-badge&logo=terraform&logoColor=white)
+![Github](https://img.shields.io/badge/Github-585050?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -32,7 +34,7 @@
 ---
 
 ### 🌐 Connect
-[![Email](https://img.shields.io/badge/Email-0F80FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:like98100@naver.com)
+[![Email](https://img.shields.io/badge/Email-2DB400?style=for-the-badge&logo=naver&logoColor=white)](mailto:like98100@naver.com)
 
 ---
 
