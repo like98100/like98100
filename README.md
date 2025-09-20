@@ -24,14 +24,14 @@
 ---
 
 ### 🚀 Projects
-- 🎮 [Unity Counter System](https://github.com/like98100/unity-counter-system) – 카운터 타이밍 기반 액션 게임
-- ☁️ [AWS Blue/Green Deploy](https://github.com/like98100/aws-blue-green-deploy) – ECS + CodePipeline 배포 자동화
+- 🎮 [Eden Dev](https://github.com/iruril/ActionGame_Prototype/tree/Master-Branch) – 카운터 기반 3인칭 액션 어드벤처 게임(팀 프로젝트)
+- 🎮 [For All Elements](https://github.com/like98100/Bixby) – 원소 상호작용을 기반으로 한 오픈월드 어드벤처 게임(팀 프로젝트)
+- ☁️ [AWS Blue/Green Deploy](https://github.com/like98100/aws-infra-bluegreendeploy) – Terraform을 활용한 ECS + CodePipeline 자동 배포
 
 ---
 
 ### 🌐 Connect
-[![Blog](https://img.shields.io/badge/Blog-0F80FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://like98100.github.io)
-[![Email](https://img.shields.io/badge/Email-0F80FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@example.com)
+[![Email](https://img.shields.io/badge/Email-0F80FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:like98100@naver.com)
 
 ---
 
