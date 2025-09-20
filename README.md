@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0F80FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Yun+ByeongChang;Game+%26+Backend+Developer;Love+Clean+Code+%26+CI%2FCD" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=28&duration=1&pause=1&color=FFFFFF&background=0F80FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Yun+Byeong+Chang;Game%2FBackend%2FCI%2CCD+Infra+Developer" alt="Typing SVG" /></a>
 </p>
 
 
