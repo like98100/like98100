@@ -1,7 +1,8 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=28&duration=1&pause=1&color=FFFFFF&background=0F80FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Yun+Byeong+Chang;Game%2FBackend%2FCI%2CCD+Infra+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=28&duration=1&pause=1&color=FFFFFF&background=0d1117&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Yun+Byeong+Chang;Game%2FBackend%2FCI%2CCD+Infra+Developer" alt="Typing SVG" />
+</a>
 </p>
-
 
 ---
 
@@ -16,8 +17,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=like98100&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=like98100&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=like98100&show_icons=true&bg_color=0d1117&title_color=0F80FF&text_color=c9d1d9&icon_color=0F80FF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=like98100&layout=compact&bg_color=0d1117&title_color=0F80FF&text_color=c9d1d9" />
 </p>
 
 ---
