@@ -27,7 +27,7 @@
 ### 🚀 Projects
 - 🎮 [Eden Dev](https://github.com/iruril/ActionGame_Prototype/tree/Master-Branch) – 카운터 기반 3인칭 액션 어드벤처 게임(팀 프로젝트)
 - 🎮 [For All Elements](https://github.com/like98100/Bixby) – 원소 상호작용을 기반으로 한 오픈월드 어드벤처 게임(팀 프로젝트)
-- ☁️ [AWS Blue/Green Deploy](https://github.com/like98100/aws-infra-bluegreendeploy) – Terraform을 활용한 ECS + CodePipeline 자동 배포
+- ☁️ [AWS Blue/Green Deploy](https://github.com/like98100/aws-infra-bluegreendeploy) – Terraform을 활용한 ECS + CodePipeline 자동 배포(1인 프로젝트)
 
 ---
 
@@ -36,7 +36,6 @@
 
 ---
 
-### ⭐ Farm
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=like98100&utm_content=farm">
 <img src="https://render.gitanimals.org/farms/like98100" width="600" height="300"/>
 </a>
