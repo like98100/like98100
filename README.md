@@ -12,6 +12,7 @@
 ![Unity](https://img.shields.io/badge/Unity-0F80FF?style=for-the-badge&logo=unity&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0F80FF?style=for-the-badge&logo=springboot&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-0F80FF?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-0F80FF?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
